@@ -1,0 +1,13 @@
+.Comedy{
+    display: flex;
+    width: 30vw;
+    height: 30vh;
+}
+.Comedydiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px;
+    border-bottom: 2px solid rgb(168,167,167);
+    cursor: pointer;
+}

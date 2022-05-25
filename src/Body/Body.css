@@ -1,0 +1,18 @@
+img{
+    width: 50%;
+}
+.bodycontent1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+    padding: 3vh;
+    margin: 3vh;
+    border-bottom: 3px solid rgb(168,167,167);
+  
+}   
+.app{
+    
+    width: 100vw;
+    height: 80vh;
+    margin-top: 5vh;
+}

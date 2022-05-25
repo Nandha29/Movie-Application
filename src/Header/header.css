@@ -1,0 +1,16 @@
+.head{
+    display: flex;
+    align-items: center;
+    border-bottom: lightslategray;
+    border-bottom-style: dotted;
+}
+h1{
+    flex: 1;
+    text-align: center;
+}
+h2{
+    justify-content: space-evenly;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    font-size: large;
+}

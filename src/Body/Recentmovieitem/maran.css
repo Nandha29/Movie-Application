@@ -1,0 +1,21 @@
+.mv{
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 150px;
+    padding-left: 50px;
+    width: 900px;
+    height: 800px;
+}
+.mv>img{
+    margin-top:40px;
+    width: 200px;
+    height: 250px;
+}
+.mv>p{
+    background-color: white;
+    color: black;
+}
+.mv>button{
+    width: 100px;
+}
+
